@@ -26,24 +26,37 @@
 
 ---
 
-### 🚀 What I'm Up To
-*   🛠️ **Core Project**: Architecting **SECUREWAY** – an autonomous vulnerability scanner powered by PyTorch models & LLM reasoning agents.
-*   📊 **Observability Focus**: Implementing high-performance Kubernetes metrics instrumentation with OpenTelemetry & Dash0 alerting pipelines.
-*   🧠 **Deep Dive**: Researching self-healing software architectures using Python Abstract Syntax Trees (AST) and LSTM models.
-*   ⚡ **Ask Me About**: Prometheus telemetry tuning, automated red-team operations, and asynchronous backend worker scaling.
+### 💻 RitikOS System Terminal
+
+```bash
+ritiksingh@github-terminal:~$ neofetch --profile
+```
+
+```text
+      .---.          USER: Ritik Singh (ritiksingh96-cmd)
+     /     \         OS: RitikOS v2026.07 (Developer Edition)
+    | () () |        Host: Intel64 Family 6 Model 142
+     \  ^  /         Uptime: Continuous learning & building
+      |||||          Shell: zsh / bash / powershell
+      |||||          Core Focus: Cognitive Security, Telemetry & Web3 Systems
+                     
+   [##########]      Vulnerability Scanning Engine  : ONLINE (SECUREWAY)
+   [##########]      Self-Healing AST Engine         : ONLINE (PyTorch LSTM)
+   [##########]      Telemetry & Alerting Mesh      : ONLINE (O11ypossible)
+   [##########]      Blockchain Smart Contracts     : ONLINE (Ethereum/Solidity)
+```
 
 ---
 
-### 📊 My 3D Contribution Space
-Live 3D contribution telemetry refreshed daily:
+### 🎮 Interactive Contribution Snake Game
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-in-new-york-animate.svg" alt="3D Contribution Graph" width="90%" />
+  <img src="https://raw.githubusercontent.com/Ritiksingh96-cmd/Ritiksingh96-cmd/output/github-contribution-grid-snake.svg" alt="Snake Game Contribution Graph" width="100%" />
 </div>
 
 ---
 
-### 🛡️ Highlighted Projects
+### 🚀 Highlighted Project Showroom
 
 <table width="100%">
   <tr>
@@ -67,12 +80,38 @@ Live 3D contribution telemetry refreshed daily:
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h4>⛓️ Blockchain & Web3 Systems</h4>
+      <p><i>Decentralized Smart Contracts</i></p>
+      <ul>
+        <li>Secure transaction handling, cryptographically validated tokens, and distributed ledger integrations.</li>
+        <li><b>Stack</b>: Ethereum, Solidity, Web3.js.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
       <h4>🤖 Stark AI</h4>
       <p><i>Agentic Assistant Orchestrator & UI</i></p>
       <ul>
-        <li>Modern full-stack developer assistant powered by real-time agentic reasoning steps.</li>
+        <li>Modern developer companion UI powered by real-time agentic reasoning models.</li>
         <li><b>Stack</b>: React, TypeScript, FastAPI, WebSockets.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Shiksha Samadhan</h4>
+      <p><i>Educational Solution Router</i></p>
+      <ul>
+        <li>Unified mobile-first academic routing platform and resource catalog.</li>
+        <li><b>Stack</b>: Python backend, MySQL.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔗 TwoWay Connect</h4>
+      <p><i>Real-time Message Exchange</i></p>
+      <ul>
+        <li>Responsive cross-platform data syncing and secure communications gateway.</li>
+        <li><b>Stack</b>: JavaScript, WebSockets.</li>
       </ul>
     </td>
   </tr>
@@ -83,7 +122,7 @@ Live 3D contribution telemetry refreshed daily:
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,django,fastapi,react,kubernetes,docker,redis,postgres,sqlite,git,github,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,django,fastapi,react,solidity,kubernetes,docker,redis,postgres,sqlite,git,github,vscode" alt="My Skills" />
 </div>
 
 ---
