@@ -12,6 +12,11 @@
 <img src="https://img.shields.io/github/followers/Ritiksingh96-cmd?label=FOLLOWERS&style=for-the-badge&color=4FACFE&logoColor=white" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/Ritiksingh96-cmd?label=STARS%20EARNED&style=for-the-badge&color=FFB800" alt="Stars"/>
 
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+
 </div>
 
 <br/>
@@ -34,6 +39,12 @@ fun_fact: "I'll train an LSTM anomaly detector just to predict system resource s
 
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+</div>
+
+<br/>
+
 ## 🧬 What I Do
 
 <table>
@@ -52,6 +63,12 @@ Deploying multi-service microservices telemetry with OpenTelemetry. Orchestratin
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+</div>
 
 <br/>
 
@@ -104,6 +121,12 @@ Deploying multi-service microservices telemetry with OpenTelemetry. Orchestratin
 
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+</div>
+
+<br/>
+
 ## 🎮 Contribution Snake Game
 
 <div align="center">
@@ -112,10 +135,22 @@ Deploying multi-service microservices telemetry with OpenTelemetry. Orchestratin
 
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+</div>
+
+<br/>
+
 ## 🛠️ Technical Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,django,fastapi,react,solidity,kubernetes,docker,redis,postgres,sqlite,git,github,vscode" alt="My Skills" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
 </div>
 
 <br/>
