@@ -155,6 +155,22 @@ Deploying multi-service microservices telemetry with OpenTelemetry. Orchestratin
 
 <br/>
 
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ritik-singh-969459293/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rs7267216@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Ritiksingh96-cmd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+</div>
+
+<br/>
+
 ## 📈 Metrics & Stats
 
 <div align="center">
