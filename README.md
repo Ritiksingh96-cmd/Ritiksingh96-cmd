@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ritik%20Singh&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&fontSize=50&color=0:00F2FE,100:4FACFE&animation=fadeIn&desc=Software%20Engineer%20%7C%20Cognitive%20Security%20%26%20Observability&descAlign=50&descAlignY=58&descColor=FFFFFF&descSize=18"/>
+# ⚔️ Ritik Singh ⚔️
+### *Cognitive Security Researcher & Systems Observability Engineer*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+secure%2C+observable%2C+and+intelligent+systems.;Developing+SECUREWAY+-+Cognitive+Security+Logic+Engine.;Expert+in+PromQL+alerting+%26+OpenTelemetry.;Let's+collaborate+on+Web3%2C+AI%2C+and+SRE." alt="Typing Animation"/>
 
@@ -45,19 +46,44 @@ fun_fact: "I'll train an LSTM anomaly detector just to predict system resource s
 
 <br/>
 
-## 🧬 What I Do
+## 🎮 Ritik's Character Sheet
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                           🎮 RITIK SINGH - PLAYER STATS                      ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Class: Systems Mage & Security Red-Teamer                                   ║
+║  Level: 25                                                                   ║
+║  Guild: GitHub Open-Source Pioneers                                           ║
+║                                                                              ║
+║  [⚔️ STR] Python / Django / FastAPI          [████████████████░░░] (88%)     ║
+║  [⚡ AGI] Celery / Redis / WebSockets          [██████████████░░░░░] (75%)     ║
+║  [🧠 INT] PyTorch LSTMs / Smart Contracts     [█████████████████░░] (92%)     ║
+║  [🛡️ VIT] Kubernetes / OpenTelemetry / SRE    [████████████████░░░] (85%)     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+</div>
+
+<br/>
+
+## 🧬 Current Quests & Operations
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Cognitive Security & AI
+### 🛡️ Quest: Cognitive Security & AI
 Developing autonomous red-team security agents that mimic human operators. Working with Python AST parsing for self-healing mitigations, LLM vulnerability reasoning, and Kali Linux/Shodan tool integration.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Site Reliability & Observability
+### 📊 Quest: Site Reliability & Observability
 Deploying multi-service microservices telemetry with OpenTelemetry. Orchestrating self-healing check rules, PromQL alert mappings, and Dash0 alerting ConfigMaps on Kubernetes.
 
 </td>
@@ -72,7 +98,7 @@ Deploying multi-service microservices telemetry with OpenTelemetry. Orchestratin
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Completed & Active Quests (Projects)
 
 <table>
   <tr>
@@ -131,20 +157,6 @@ Deploying multi-service microservices telemetry with OpenTelemetry. Orchestratin
 
 <div align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
-</div>
-
-<br/>
-
-## 📊 Live 3D Contribution Space
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Live Contributions" width="100%" />
 </div>
 
 <br/>
