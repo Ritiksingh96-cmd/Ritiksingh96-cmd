@@ -1,145 +1,126 @@
+<!-- GitHub Profile README — @Ritiksingh96-cmd -->
+
 <div align="center">
-  <img src="profile_banner.png" alt="Ritik Singh Banner" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ritik%20Singh&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&fontSize=50&color=0:00F2FE,100:4FACFE&animation=fadeIn&desc=Software%20Engineer%20%7C%20Cognitive%20Security%20%26%20Observability&descAlign=50&descAlignY=58&descColor=FFFFFF&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+secure%2C+observable%2C+and+intelligent+systems.;Developing+SECUREWAY+-+Cognitive+Security+Logic+Engine.;Expert+in+PromQL+alerting+%26+OpenTelemetry.;Let's+collaborate+on+Web3%2C+AI%2C+and+SRE." alt="Typing Animation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ritiksingh96-cmd&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Ritiksingh96-cmd?label=FOLLOWERS&style=for-the-badge&color=4FACFE&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Ritiksingh96-cmd?label=STARS%20EARNED&style=for-the-badge&color=FFB800" alt="Stars"/>
+
 </div>
 
 <br/>
 
-<table border="0" width="100%">
+## 💫 About Me
+
+> I build secure, observable, and intelligent systems—focusing on automating red-team security operations, structuring telemetry at scale, and developing smart contract logic.
+
+I'm a full-stack engineer and security researcher who designs robust backend systems, trains anomaly detection models, and structures Kubernetes cluster alerting. I care about building scalable architectures, deploying self-healing code automation, and implementing clean user interfaces.
+
+```yaml
+role: Software Engineer & Security Researcher
+stack: [Python, Django, FastAPI, React, Solidity, Kubernetes, Docker, Prometheus]
+focus: Cognitive Security · Observability Systems · Web3 Smart Contracts
+currently_building: "SECUREWAY — Cognitive Security Logic Engine"
+also_exploring: "Advanced PromQL anomaly detection pipelines with Dash0"
+collaboration: "Open to full-stack, Web3/crypto, SRE, and security automation"
+fun_fact: "I'll train an LSTM anomaly detector just to predict system resource spikes 🧠"
+```
+
+<br/>
+
+## 🧬 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Cognitive Security & AI
+Developing autonomous red-team security agents that mimic human operators. Working with Python AST parsing for self-healing mitigations, LLM vulnerability reasoning, and Kali Linux/Shodan tool integration.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Site Reliability & Observability
+Deploying multi-service microservices telemetry with OpenTelemetry. Orchestrating self-healing check rules, PromQL alert mappings, and Dash0 alerting ConfigMaps on Kubernetes.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
   <tr>
-    <td width="75%" valign="middle">
-      <h1>👋 Hi, I'm Ritik Singh!</h1>
-      <p><b>Software Engineer | Cognitive Security Researcher | Systems Observability Engineer</b></p>
+    <td width="50%" valign="top">
+      <h3>🛡️ SECUREWAY</h3>
+      <p>Autonomous DAST/SAST security scanner and cognitive red-team reasoning agent.</p>
       <p>
-        <img src="https://komarev.com/ghpvc/?username=Ritiksingh96-cmd&label=PROFILE+VIEWS&color=00F2FE&style=flat-square" alt="Profile Views" />
-      </p>
-      <p>
-        <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:rs7267216@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-        <a href="https://github.com/Ritiksingh96-cmd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
       </p>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="robot_avatar.png" alt="Ritik's Cyber Assistant" width="130px" style="border-radius: 15px; border: 2px solid #00F2FE;" />
+    <td width="50%" valign="top">
+      <h3>📊 O11ypossible</h3>
+      <p>Kubernetes cluster observability mesh featuring self-escalating check rules and alerts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenTelemetry-F05023?style=flat-square&logo=opentelemetry&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PromQL-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dash0-00F2FE?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 FlameKaiSher Token</h3>
+      <p>Web3 ERC-20 token contract interface with transaction tracking and cyber flame theme.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web3.py-F7DF1E?style=flat-square&logo=ethereum&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Stark AI</h3>
+      <p>Developer companion interface powered by WebSockets and agentic reasoning orchestration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 💻 RitikOS System Terminal
-
-```bash
-ritiksingh@github-terminal:~$ neofetch --profile
-```
-
-```text
-      .---.          USER: Ritik Singh (ritiksingh96-cmd)
-     /     \         OS: RitikOS v2026.07 (Developer Edition)
-    | () () |        Host: Intel64 Family 6 Model 142
-     \  ^  /         Uptime: Continuous learning & building
-      |||||          Shell: zsh / bash / powershell
-      |||||          Core Focus: Cognitive Security, Telemetry & Web3 Systems
-                     
-   [##########]      Vulnerability Scanning Engine  : ONLINE (SECUREWAY)
-   [##########]      Self-Healing AST Engine         : ONLINE (PyTorch LSTM)
-   [##########]      Telemetry & Alerting Mesh      : ONLINE (O11ypossible)
-   [##########]      Blockchain Smart Contracts     : ONLINE (FlameKaiSher Token)
-```
-
----
-
-### 🎮 Interactive Contribution Snake Game
+## 🎮 Contribution Snake Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ritiksingh96-cmd/Ritiksingh96-cmd/output/github-contribution-grid-snake.svg" alt="Snake Game Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ritiksingh96-cmd/Ritiksingh96-cmd/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
 
----
+<br/>
 
-### 🚀 Highlighted Project Showroom
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ SECUREWAY</h4>
-      <p><i>The Phase 0 Cognitive Security Logic Engine</i></p>
-      <ul>
-        <li>Autonomous DAST/SAST agent mimicking human security operators.</li>
-        <li><b>Stack</b>: Django 5.x, FastAPI, Celery, Redis, PyTorch LSTMs, Presidio.</li>
-        <li><b>Features</b>: Shadow DOM crawler, AST self-healing patches, Shodan & Kali Linux MCP interfaces.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 O11ypossible</h4>
-      <p><i>Kubernetes Observability & Alerting Infrastructure</i></p>
-      <ul>
-        <li>Multi-service telemetry orchestration and alerting pipelines.</li>
-        <li><b>Stack</b>: OpenTelemetry, Prometheus, PromQL, Dash0 Engine.</li>
-        <li><b>Features</b>: Self-escalating alerts, dynamic PromQL thresholds, service error profiling.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="crypto_token.png" alt="FlameKaiSher Token" width="130px" style="border-radius: 15px; border: 2px solid #FF5E00;" />
-    </td>
-    <td width="75%" valign="middle">
-      <h4>🔥 FlameKaiSher Token (FKS)</h4>
-      <p><i>Web3 Integration & ERC-20 Smart Contract System</i></p>
-      <ul>
-        <li>A secure web-based ERC-20 token interface deployed on the Ethereum Sepolia Testnet.</li>
-        <li><b>Stack</b>: Solidity, Web3.py, Flask, HTML5 (Orbitron/Rajdhani Cyber Theme).</li>
-        <li><b>Features</b>: Multi-wallet connection, token balance query, gas-optimized transfers, and live block state monitoring.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Stark AI</h4>
-      <p><i>Agentic Assistant Orchestrator & UI</i></p>
-      <ul>
-        <li>Modern developer companion UI powered by real-time agentic reasoning models.</li>
-        <li><b>Stack</b>: React, TypeScript, FastAPI, WebSockets.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 Shiksha Samadhan</h4>
-      <p><i>Educational Solution Router</i></p>
-      <ul>
-        <li>Unified mobile-first academic routing platform and resource catalog.</li>
-        <li><b>Stack</b>: Python backend, MySQL.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🔗 TwoWay Connect</h4>
-      <p><i>Real-time Message Exchange</i></p>
-      <ul>
-        <li>Responsive cross-platform data syncing and secure communications gateway.</li>
-        <li><b>Stack</b>: JavaScript, WebSockets.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,django,fastapi,react,solidity,kubernetes,docker,redis,postgres,sqlite,git,github,vscode" alt="My Skills" />
 </div>
 
----
+<br/>
 
-### 📈 Metrics & Stats
+## 📈 Metrics & Stats
 
 <div align="center">
   <table border="0">
