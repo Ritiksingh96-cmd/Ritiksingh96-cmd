@@ -144,7 +144,7 @@ Deploying multi-service microservices telemetry with OpenTelemetry. Orchestratin
 ## 📊 Live 3D Contribution Space
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-in-new-york-animate.svg" alt="3D Live Contributions" width="100%" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Live Contributions" width="100%" />
 </div>
 
 <br/>
