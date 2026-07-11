@@ -43,7 +43,7 @@ ritiksingh@github-terminal:~$ neofetch --profile
    [##########]      Vulnerability Scanning Engine  : ONLINE (SECUREWAY)
    [##########]      Self-Healing AST Engine         : ONLINE (PyTorch LSTM)
    [##########]      Telemetry & Alerting Mesh      : ONLINE (O11ypossible)
-   [##########]      Blockchain Smart Contracts     : ONLINE (Ethereum/Solidity)
+   [##########]      Blockchain Smart Contracts     : ONLINE (FlameKaiSher Token)
 ```
 
 ---
@@ -79,15 +79,27 @@ ritiksingh@github-terminal:~$ neofetch --profile
       </ul>
     </td>
   </tr>
+</table>
+
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>⛓️ Blockchain & Web3 Systems</h4>
-      <p><i>Decentralized Smart Contracts</i></p>
+    <td width="25%" align="center" valign="middle">
+      <img src="crypto_token.png" alt="FlameKaiSher Token" width="130px" style="border-radius: 15px; border: 2px solid #FF5E00;" />
+    </td>
+    <td width="75%" valign="middle">
+      <h4>🔥 FlameKaiSher Token (FKS)</h4>
+      <p><i>Web3 Integration & ERC-20 Smart Contract System</i></p>
       <ul>
-        <li>Secure transaction handling, cryptographically validated tokens, and distributed ledger integrations.</li>
-        <li><b>Stack</b>: Ethereum, Solidity, Web3.js.</li>
+        <li>A secure web-based ERC-20 token interface deployed on the Ethereum Sepolia Testnet.</li>
+        <li><b>Stack</b>: Solidity, Web3.py, Flask, HTML5 (Orbitron/Rajdhani Cyber Theme).</li>
+        <li><b>Features</b>: Multi-wallet connection, token balance query, gas-optimized transfers, and live block state monitoring.</li>
       </ul>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
       <h4>🤖 Stark AI</h4>
       <p><i>Agentic Assistant Orchestrator & UI</i></p>
@@ -96,8 +108,6 @@ ritiksingh@github-terminal:~$ neofetch --profile
         <li><b>Stack</b>: React, TypeScript, FastAPI, WebSockets.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>📱 Shiksha Samadhan</h4>
       <p><i>Educational Solution Router</i></p>
@@ -106,7 +116,9 @@ ritiksingh@github-terminal:~$ neofetch --profile
         <li><b>Stack</b>: Python backend, MySQL.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4>🔗 TwoWay Connect</h4>
       <p><i>Real-time Message Exchange</i></p>
       <ul>
